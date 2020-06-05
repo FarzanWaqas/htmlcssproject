@@ -1,0 +1,475 @@
+
+body{
+    margin: 0;
+    padding: 0; 
+}
+
+
+#div11{
+    background-color: lightpink;
+}
+
+#red{
+    padding-top: 1.5%;
+    font-size:7.8vh;
+    width: 100%;height: 15vh;
+    color: antiquewhite;
+    background-color: darkblue;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-family: serif;
+    
+    
+}
+
+#marg1{
+
+  margin-top: 9vh;
+}
+
+
+#farzan{
+        font-size: 7vh;
+        background-color: darkgray;
+        width: 50%;
+        text-align:center;
+        color: blue;
+        display: inline-block;
+        margin-left: 10px;
+        margin-top: 20px;
+        font-family: serif;
+}
+
+
+
+
+#sabeer{
+    color: cornsilk;
+    background-color: darkblue;
+    width: 48%;
+    text-align: center;
+    display: inline-block;
+    font-size: 7vh;
+    margin-top: 20px;
+    font-family: serif;
+}
+
+
+
+#faiez{
+    
+    font-size: 7vh;
+    background-color:bisque;
+    width: 50%;
+    text-align:center;
+    color: blue;
+    display: inline-block;
+    margin-left: 10px;
+    font-family: serif;
+}
+
+
+
+#nameer{
+ 
+    color: palegoldenrod;
+    background-color: rgb(194, 125, 136);
+    width: 48%;
+    text-align: center;
+    display: inline-block;
+    font-size: 7vh;
+    font-family: serif;
+   
+}
+
+
+
+#class5 {
+         
+    font-size: 7vh;
+    background-color:gold;
+    width: 50%;
+    text-align:center;
+    color: lavender;
+    display: inline-block;
+    margin-left: 10px;
+    font-family: serif;
+}
+
+
+
+#class6 {
+    
+    color: rgb(233, 233, 230);
+    background-color: rgb(114, 11, 28);
+    width: 48%;
+    text-align: center;
+    display: inline-block;
+    font-size: 7vh;
+    font-family: serif;
+   
+}
+
+
+
+#class7{
+      
+    font-size: 7vh;
+    background-color:rgb(122, 116, 112);
+    width: 50%;
+    text-align:center;
+    color: yellow;
+    display: inline-block;
+    margin-left: 10px;
+    font-family: serif;
+}
+
+
+#class8{
+     
+    color: rgb(36, 107, 139);
+    background-color: rgb(28, 219, 140);
+    width: 48%;
+    text-align: center;
+    display: inline-block;
+    font-size: 7vh;
+    font-family: serif;
+}
+
+
+#class9{
+    
+    font-size: 7vh;
+    background-color:rgb(185, 50, 50);
+    width: 50%;
+    text-align:center;
+    color: rgb(230, 245, 207);
+    display: inline-block;
+    margin-left: 10px;
+    font-family: serif;
+}
+
+
+
+#class0{
+    
+    color: rgb(219, 151, 5);
+    background-color: rgb(186, 201, 195);
+    width: 48%;
+    text-align: center;
+    display: inline-block;
+    font-size: 7vh;
+    font-family: serif;
+}
+a{
+    color: inherit;
+    outline: none;
+    text-decoration: none;
+}
+
+#slider1{
+         margin-top: 10px;
+}
+
+
+
+
+#nameer:hover{
+
+    background-color: red;
+    font-size: 8vh;
+    font-family:'Rye', cursive;
+
+}
+
+#farzan:hover{
+
+    background-color: rgb(253, 5, 5);
+    font-size: 8vh;
+    color: cornsilk;
+    font-family: 'Rye', cursive;
+}
+
+#faiez:hover{
+
+background-color: red;
+color: cornsilk;
+font-size: 8vh;
+font-family: 'Rye', cursive;
+
+}
+
+#sabeer:hover{
+
+background-color: rgb(255, 8, 8);
+font-size: 8vh;
+color: cornsilk;
+font-family: 'Rye', cursive;
+
+}
+
+#class5:hover{
+
+    background-color: rgb(255, 8, 8);
+    font-size: 8vh;
+    color: cornsilk;
+    font-family: 'Rye', cursive;
+    
+}
+
+
+#class6:hover{
+
+    background-color: rgb(255, 8, 8);
+    font-size: 8vh;
+    color: cornsilk;
+    font-family: 'Rye', cursive;
+    
+    }
+
+
+#class7:hover{
+
+        background-color: rgb(255, 8, 8);
+        font-size: 8vh;
+        color: rgb(61, 59, 51);
+        font-family: 'Rye', cursive;
+        
+        }
+
+
+#class8:hover{
+
+        background-color: rgb(255, 8, 8);
+        font-size: 8vh;
+        color: cornsilk;
+        font-family: 'Rye', cursive;
+            
+        }
+
+
+#class9:hover{
+
+        background-color: rgb(255, 8, 8);
+        font-size: 8vh;
+        color: cornsilk;
+        font-family: 'Rye', cursive;
+        
+        }
+
+
+
+#class0:hover{
+
+        background-color: rgb(255, 8, 8);
+        font-size: 8vh;
+        color: cornsilk;
+        font-family: 'Rye', cursive;
+        
+        }
+
+
+
+@media screen and (max-width: 380px){
+
+    #farzan{
+        width: 100%;text-align: center;margin-left: 0;
+    }
+    #sabeer{
+        width: 100%;text-align: center;margin-left: 0;
+    }
+    #faiez{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #nameer{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class5{
+    width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class6{
+    width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class7{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class8{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class9{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class0{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+
+    #red{
+        
+    margin-top: 0%;padding-top: 1.5%;
+    font-size:7.8vh;
+    width: 100%;height: 18vh;
+    color: antiquewhite;
+    background-color: darkblue;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-family: serif;
+    }
+
+
+}
+
+
+
+@media screen and (min-width: 380px){
+
+    #farzan{
+        width: 100%;text-align: center;margin-left: 0;
+    }
+    #sabeer{
+        width: 100%;text-align: center;margin-left: 0;
+    }
+    #faiez{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #nameer{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class5{
+    width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class6{
+    width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class7{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class8{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class9{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class0{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+
+    #red{
+        
+    margin-top: 0%;padding-top: 1.5%;
+    font-size:7.8vh;
+    width: 100%;height: 18vh;
+    color: antiquewhite;
+    background-color: darkblue;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-family: serif;
+    }
+
+
+}
+
+
+
+
+@media screen and (min-width: 480px){
+
+    #farzan{
+        width: 100%;text-align: center;margin-left: 0;
+    }
+    #sabeer{
+        width: 100%;text-align: center;margin-left: 0;
+    }
+    #faiez{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #nameer{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class5{
+    width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class6{
+    width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class7{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class8{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class9{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class0{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+
+    #red{
+        
+    margin-top: 0%;padding-top: 1.5%;
+    font-size:7.8vh;
+    width: 100%;height: 18vh;
+    color: antiquewhite;
+    background-color: darkblue;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-family: serif;
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 720px){
+
+    #farzan{
+        width: 100%;text-align: center;margin-left: 0;
+    }
+    #sabeer{
+        width: 100%;text-align: center;margin-left: 0;
+    }
+    #faiez{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #nameer{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class5{
+    width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class6{
+    width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class7{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class8{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class9{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+    #class0{
+        width: 100%;text-align: center;margin-left: 0;margin-top: 20px;
+    }
+
+    #red{
+        
+    margin-top: 0%;padding-top: 1.5%;
+    font-size:7.8vh;
+    width: 100%;height: 18vh;
+    color: antiquewhite;
+    background-color: darkblue;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-family: serif;
+    }
+
+
+}
